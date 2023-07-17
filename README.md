@@ -1,4 +1,4 @@
-# feedbackscript#
+# feedbackscript
 
 a pretty straightforward script that emulates the keyboard to fill out the feedback form form for you while you sip on some tea. works for the traditional matrix type form and i can't guarantee that itll work in the future.
 
